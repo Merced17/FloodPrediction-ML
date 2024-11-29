@@ -19,3 +19,21 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+
+How to Use
+1. Download the repository and open the Flood_SLP_KNN.ipynb file in a Jupyter Notebook environment (e.g., JupyterLab, Google Colab).
+2. Ensure Training.csv and DataPred.csv are in the same directory as the notebook.
+3. Follow the steps in the notebook:
+* Load and preprocess the data.
+* Train the machine learning models.
+* Evaluate their performance.
+* Use DataPred.csv to generate predictions.
+
+Outputs
+1. The notebook generates a feature importance chart, confusion matrix, classification metrics, ROC curve, and predictions for the dataset in DataPred.csv.
+2. Outputs include a CSV file with predicted flood occurrences and probabilities:
+* Flood1_Predictions2.csv
+* probabilities.csv
+
+Acknowledgments
+This project is part of a study on urban flood risks in San Luis Potosí (SLP) using machine learning techniques.
