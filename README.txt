@@ -36,4 +36,4 @@ Outputs
 * probabilities.csv
 
 Acknowledgments
-This project is part of a study on urban flood risks in San Luis Potosí (SLP) using machine learning techniques.
+This project is part of a study on urban flood exposure in San Luis Potosí (SLP), Mexico using machine learning techniques.
